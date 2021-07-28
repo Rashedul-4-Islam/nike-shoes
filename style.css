@@ -1,0 +1,14 @@
+/* @media only screen and (max-width:568px) {
+     .brand{
+         display: flex;
+         flex-direction: column-reverse;
+     }
+} */
+.nav-item .nav-link{
+    font-weight: 500;
+    font-size: 1rem;
+}
+.hover:hover{
+    background-color: bisque;
+    box-shadow: 5px 10px 10px royalblue;
+}
